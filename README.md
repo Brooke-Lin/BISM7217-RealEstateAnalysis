@@ -7,6 +7,10 @@ This project is a university coursework. It explores real estate market data to 
 
 The goal of this project is to provide insights into property characteristics that influence market behavior and identify the best predictive model for days on market.
 
+**Built With**
+-
+Python
+
 **Data Cleaning Steps**
 -
 * Removed outliers in `beds`, `baths`, and `parks` 
